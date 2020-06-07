@@ -2,7 +2,7 @@
 
 ### Here you can find source files of Black Box Jumper 1.0.1
 
-### If you want to view or download files of the latest version [click Here](https://github.com/Ghost-Miner/Black-Box-Jumper)
+### If you want to view or download files of the latest version [Click here](https://github.com/Ghost-Miner/Black-Box-Jumper)
 
 <br/>
 
