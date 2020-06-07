@@ -1,6 +1,15 @@
-# Black-Box-Jumper source 
-Source files of my first game Black Box Jumper.
+# Black Box Jumper 1.0.1 - *GameDev.tv Jam version* source files
 
-Feel free to download and modify this project.
+### Here you can find source files of Black Box Jumper 1.0.1
 
-This Game is made in GameMaker Studio 1.4.9999
+### If you want to view or download files of the latest version [click Here](https://github.com/Ghost-Miner/Black-Box-Jumper)
+
+<br/>
+
+#### Install insturctions:
+1. Download or clone the files
+2. Extract the archive
+3. Copy folder *Black-Box-Jumper-master* in GameMaker projects folder
+4. Run GameMaker and go to *Open* tab 
+5. Open *Black-Box-Jumper-master* folder
+6. Select *Black Box Jumper.project.gmx*  
